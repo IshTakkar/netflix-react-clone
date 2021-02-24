@@ -25,7 +25,7 @@ export const Input = styled.input`
 export const Button = styled.button`
     display: flex;
     align-items: center;
-    height: 100%;
+    height: 70px;
     background: #e50914;
     color: white;
     border: 0;
